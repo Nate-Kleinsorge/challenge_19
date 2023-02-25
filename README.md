@@ -20,7 +20,7 @@ I learned that it is very easy to make a downloadable website, but it comes with
 
 <a name="usage"></a>
 ## Usage: 
-1.) navigate to the repo in your terminal 2.) run "
+1.) navigate to the repo in your terminal 2.) run "npm run start:dev"
 
 <a name="contribute"></a>
 ## How to Contribute:
